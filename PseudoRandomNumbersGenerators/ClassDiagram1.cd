@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PseudoRandomNumbersGenerators.BinomialDistributionPRNG">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>BinomialDistributionPRNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.ChiSquareDistributionPRNG">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ChiSquareDistributionPRNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.ContiniousNumberGenerator">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ContiniousNumberGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.DiscreteNumberGenerator">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>DiscreteNumberGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.ExponentialDistributionPRNG">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ExponentialDistributionPRNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.Generator" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.NormalDistributionPRNG">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>NormalDistributionPRNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.PoissonDistributionPRNG">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>PoissonDistributionPRNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.Program" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PseudoRandomNumbersGenerators.TriangleSimpsonDistributionPRNG">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TriangleSimpsonDistributionPRNG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
